@@ -1,0 +1,23 @@
+.card {
+    width: 200px;
+    padding: 5px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    background-color: darkslategrey;
+    color: white;
+    margin: 5px;
+}
+
+.card .image {
+    width: 100%;
+}
+
+.image img {
+    width: 100%;
+}
+
+.details {
+    background-color: darkcyan;
+    border-radius: 4px;
+    padding: 2px;
+}
