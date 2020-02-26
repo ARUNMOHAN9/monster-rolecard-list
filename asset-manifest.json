@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monster-rolecard-list/static/css/main.9e9e57e2.chunk.css",
+    "main.js": "/monster-rolecard-list/static/js/main.048d6aa8.chunk.js",
+    "main.js.map": "/monster-rolecard-list/static/js/main.048d6aa8.chunk.js.map",
+    "runtime-main.js": "/monster-rolecard-list/static/js/runtime-main.537e9a00.js",
+    "runtime-main.js.map": "/monster-rolecard-list/static/js/runtime-main.537e9a00.js.map",
+    "static/js/2.dc38e0e4.chunk.js": "/monster-rolecard-list/static/js/2.dc38e0e4.chunk.js",
+    "static/js/2.dc38e0e4.chunk.js.map": "/monster-rolecard-list/static/js/2.dc38e0e4.chunk.js.map",
+    "index.html": "/monster-rolecard-list/index.html",
+    "precache-manifest.fe5da7af7571d194b1707d83beb82740.js": "/monster-rolecard-list/precache-manifest.fe5da7af7571d194b1707d83beb82740.js",
+    "service-worker.js": "/monster-rolecard-list/service-worker.js",
+    "static/css/main.9e9e57e2.chunk.css.map": "/monster-rolecard-list/static/css/main.9e9e57e2.chunk.css.map",
+    "static/js/2.dc38e0e4.chunk.js.LICENSE.txt": "/monster-rolecard-list/static/js/2.dc38e0e4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.537e9a00.js",
+    "static/js/2.dc38e0e4.chunk.js",
+    "static/css/main.9e9e57e2.chunk.css",
+    "static/js/main.048d6aa8.chunk.js"
+  ]
+}
